@@ -8,39 +8,46 @@ categories: posts
 
 ## Professional History
 
-#### Data Science for Social Good Fellow 
+#### Data Scientist
+
+IST Research
+
+Performed quantitative and qualitative analysis on large amounts of Social Media and other found data. Collaborated in survey design and deployment. Performed statistical analysis of survey data. Authored research reports and
+created data visualizations. Developed Natural Language Processing methods and implemented predictive and descriptive machine learning models to understand data. R package development.
+
+#### Data Science for Social Good Fellow
 
 University of Washington eScience Institute, Summer 2016
- 
-Developed a machine learning model to use Amazon Reviews to predict whether or not food products should be recalled. 
 
-#### Language Engineer 
+Developed a machine learning model to use Amazon Reviews to predict whether or not food products should be recalled.
 
-Oracle, May 2015 - Present 
+#### Language Engineer
 
-Worked as a consultant of Oracle Knowledge Management software, providing knowledge transfer and initial setup and development of enterprise search engine as well as Oracle Business Intelligence software. 
+Oracle, May 2015 - Present
 
-#### Freelance R/Python Programmer 
+Worked as a consultant of Oracle Knowledge Management software, providing knowledge transfer and initial setup and development of enterprise search engine as well as Oracle Business Intelligence software.
 
-Self, November 2015 - June 2016 Developed programs independently in R for Data Science and Statistics projects. Included Data Visualization with Shiny, ggplot2 and Plotly, mapping geographic data, and text mining Twitter data. 
+#### Freelance R/Python Programmer
 
-#### Research Intern 
+Self, November 2015 - June 2016 Developed programs independently in R for Data Science and Statistics projects. Included Data Visualization with Shiny, ggplot2 and Plotly, mapping geographic data, and text mining Twitter data.
 
-MEMRI, September 2014 - May 2015 
+#### Research Intern
 
-Researched social media activity of online groups primarily Arabic speaking and located in the MENA region. Summarized findings in multiple weekly reports. Some Arabic to English translation work. 
+MEMRI, September 2014 - May 2015
+
+Researched social media activity of online groups primarily Arabic speaking and located in the MENA region. Summarized findings in multiple weekly reports. Some Arabic to English translation work.
 
 ## Academic History
 
-#### Boston University, 2015 - 2016 
+#### Boston University, 2015 - 2016
 
 MS in Computer Information Systems
 
-Concentration in Data Analytics 
+Concentration in Data Analytics
 
-#### Emory University, 2009 - 2013 
+#### Emory University, 2009 - 2013
 
-BA in Middle Eastern Studies, magna cum laude 
+BA in Middle Eastern Studies, magna cum laude
 
 Concentration in Arabic Language
 
