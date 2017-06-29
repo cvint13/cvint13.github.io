@@ -65,7 +65,7 @@ Concentration in Arabic Language
 #### Personal Sites
 [Github](https://github.com/cvint13)
 
-[LinkedIn](https://www.linkedin.com/in/cynthia-vint968a1a63)
+[LinkedIn](https://www.linkedin.com/in/cynthia-vint-968a1a63)
 
 
 [Download the Resume]({{ site.url }}{{ site.baseurl }}/assets/Vint_Resume_Pretty.pdf) if interested. (Last updated 5/7/2017)
