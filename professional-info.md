@@ -68,4 +68,4 @@ Concentration in Arabic Language
 [LinkedIn](https://www.linkedin.com/in/cynthia-vint-968a1a63)
 
 
-[Download the Resume]({{ site.url }}{{ site.baseurl }}/assets/Vint_Resume_Pretty.pdf) if interested. (Last updated 5/7/2017)
+[Download the Resume]({{ site.url }}{{ site.baseurl }}/assets/Vint_Resume_Pretty.pdf) if interested. (Last updated 11/27/2018)
