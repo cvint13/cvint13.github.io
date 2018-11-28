@@ -14,7 +14,8 @@ img[alt=shivdass] {
 }
 
 html, body {
-  width: 25%;
+  height: 100%;
+  width: 100%;
   -webkit-font-smoothing: antialiased;
 }
 
