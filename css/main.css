@@ -9,6 +9,10 @@
   padding: 0;
 }
 
+img[alt=shivdass] {
+  width: 100px;
+}
+
 html, body {
   height: 100%;
   width: 100%;

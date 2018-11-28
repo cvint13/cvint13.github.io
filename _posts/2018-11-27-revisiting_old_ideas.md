@@ -8,7 +8,7 @@ categories: posts
 
 Last year, on November 20 2017, I married this guy:
 
-![Shiv Dass]({{ site.url }}{{ site.baseurl }}/images/shiv_and_me.jpg)
+![shivdass]({{ site.url }}{{ site.baseurl }}/images/shiv_and_me.jpg)
 
 Because he's Punjabi, I ended up going to India 3 times over the last year. During one of those trips,
 one of Shiv's (my husband) aunties told us one of the best scary stories.
