@@ -1,12 +1,18 @@
 ---
 layout: page
 title: Professional Info
-cover: maroc.jpg
+cover: malana.jpg
 date:   2016-08-24 04:00:00 -0800
 categories: posts
 ---
 
 ## Professional History
+
+#### Data Scientist
+
+BlueVoyant
+
+Researched and developed Data Science products for Cyber Security operations. Utilized supervised and unsupervised Machine Learning models to gain insights from data. Developed scalable solutions to gather intelligence from massive datasets. Collaborated with Data Scientists and Analysts to design and create Data Science solutions across multiple topics. Assessed data quality from various vendors.
 
 #### Data Scientist
 
